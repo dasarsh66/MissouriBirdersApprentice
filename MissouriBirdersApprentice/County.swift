@@ -8,14 +8,4 @@
 
 import Foundation
 
-struct County {
-    var name:String
-    var Birds:[Bird]
-    
-    init(name:String, Birds:[Bird])
-    {
-        self.name = name
-        self.Birds = Birds
-    }
-    
-}
+

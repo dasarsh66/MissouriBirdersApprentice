@@ -8,11 +8,4 @@
 
 import Foundation
 
-private struct State {
-    var County:[County]
-    init(County:[County])
-    {
-        self.County = County
-    }
-    
-}
+
